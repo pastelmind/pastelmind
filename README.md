@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I made...
+
+| Project | Description |
+|---------|-------------|
+| [![@types/director](https://img.shields.io/npm/v/@types/director?label=%40types%2Fdirector)](https://www.npmjs.com/package/@types/director) | Type definitions for [director](https://github.com/flatiron/director) |
+| [![@types/vhtml](https://img.shields.io/npm/v/@types/vhtml?label=%40types%2Fvhtml)](https://www.npmjs.com/package/@types/vhtml) | Type definitions for [vhtml](https://github.com/developit/vhtml) |
