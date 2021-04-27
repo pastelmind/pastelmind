@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 ## Stuff I made...
 
-| Project | Description |
-|---------|-------------|
-| [![@types/director](https://img.shields.io/npm/v/@types/director?label=%40types%2Fdirector)](https://www.npmjs.com/package/@types/director) | Type definitions for [director](https://github.com/flatiron/director) |
-| [![@types/vhtml](https://img.shields.io/npm/v/@types/vhtml?label=%40types%2Fvhtml)](https://www.npmjs.com/package/@types/vhtml) | Type definitions for [vhtml](https://github.com/developit/vhtml) |
+| Project | Lang | Description |
+|---------|:----:|-------------|
+| [![@types/director](https://img.shields.io/npm/v/@types/director?label=%40types%2Fdirector)](https://www.npmjs.com/package/@types/director) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Type definitions for [director](https://github.com/flatiron/director) |
+| [![@types/vhtml](https://img.shields.io/npm/v/@types/vhtml?label=%40types%2Fvhtml)](https://www.npmjs.com/package/@types/vhtml) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Type definitions for [vhtml](https://github.com/developit/vhtml) |
 
 ### Back Burner
 
-| Project | Description |
-|---------|-------------|
-| [![d2animdata](https://img.shields.io/pypi/v/d2animdata?label=d2animdata)](https://pypi.org/project/d2animdata) | Diablo 2 modding tool that (de)compiles `animdata.D2` files |
-| [![d2txt](https://img.shields.io/pypi/v/d2txt?label=d2txt)](https://pypi.org/project/d2txt) | Diablo 2 modding tool that converts tabbed text files to and from TOML for easier editing |
+| Project | Lang | Description |
+|---------|:----:|-------------|
+| [![d2animdata](https://img.shields.io/pypi/v/d2animdata?label=d2animdata)](https://pypi.org/project/d2animdata) | ![Python](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_16x16.png) | Diablo 2 modding tool that (de)compiles `animdata.D2` files |
+| [![d2txt](https://img.shields.io/pypi/v/d2txt?label=d2txt)](https://pypi.org/project/d2txt) | ![Python](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_16x16.png) | Diablo 2 modding tool that converts tabbed text files to and from TOML for easier editing |
+| [![d2calc](https://img.shields.io/npm/v/d2calc?label=d2calc)](https://www.npmjs.com/package/d2calc) | ![JavaScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_16x16.png) | Interpreter for the mini-language used in Diablo2 text files |
