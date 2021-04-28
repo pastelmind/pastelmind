@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 |---------|:----:|-------------|
 | [![@types/director](https://img.shields.io/npm/v/@types/director?label=%40types%2Fdirector)](https://www.npmjs.com/package/@types/director) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Type definitions for [director](https://github.com/flatiron/director) |
 | [![@types/vhtml](https://img.shields.io/npm/v/@types/vhtml?label=%40types%2Fvhtml)](https://www.npmjs.com/package/@types/vhtml) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Type definitions for [vhtml](https://github.com/developit/vhtml) |
-| [OCD-Cleanup](https://github.com/Loathing-Associates-Scripting-Society/OCD-Cleanup) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Item manager for the webgame Kingdom of Loathing. "Full stack"-ish app in TypeScript & create-react-app. |
+| [OCD-Cleanup](https://github.com/Loathing-Associates-Scripting-Society/OCD-Cleanup) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Item manager for the webgame Kingdom of Loathing. "Full stack"-ish app built with create-react-app. |
 
 ### Back Burner
 
