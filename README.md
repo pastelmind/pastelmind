@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 | Project | Lang | Description |
 |---------|:----:|-------------|
-| [OCD-Cleanup](https://github.com/Loathing-Associates-Scripting-Society/OCD-Cleanup) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Item manager for the webgame Kingdom of Loathing. "Full stack"-ish app built with create-react-app. |
+| [Philter](https://github.com/Loathing-Associates-Scripting-Society/OCD-Cleanup) | ![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png) | Item manager for the webgame Kingdom of Loathing that runs on top of a [Rhino](https://github.com/mozilla/rhino)-based engine. "Full stack"-ish webapp built with [Vite](https://vitejs.dev/). |
 
 ### Back Burner
 
