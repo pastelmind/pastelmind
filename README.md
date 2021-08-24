@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 ## Stuff I contributed to...
 
-| Project | Lang | Description |
-|---------|:----:|-------------|
-| [Philter](https://github.com/Loathing-Associates-Scripting-Society/philter) | ![TypeScript][icon-typescript] | Item manager for the webgame Kingdom of Loathing that runs on top of a [Rhino](https://github.com/mozilla/rhino)-based engine. "Full stack"-ish webapp built with [Vite](https://vitejs.dev/). |
+| Project | Lang | Frameworks | Description |
+|---------|:----:|:----------:|-------------|
+| [Philter](https://github.com/Loathing-Associates-Scripting-Society/philter) | ![TypeScript][icon-typescript] | ![React][icon-framework-react] | Item manager for the webgame Kingdom of Loathing that runs on top of a [Rhino](https://github.com/mozilla/rhino)-based engine. "Full stack"-ish webapp built with [Vite](https://vitejs.dev/). |
 
 ### Side Projects
-| Project | Lang | Description |
-|---------|:----:|-------------|
-| [KoL Candle Eudora Table](https://github.com/pastelmind/candle) | ![JavaScript][icon-javascript] | Daily predictions for the Our Daily Candles&trade; correspondence in KoL, the online RPG |
+| Project | Lang | Frameworks | Description |
+|---------|:----:|:----------:|-------------|
+| [KoL Candle Eudora Table](https://github.com/pastelmind/candle) | ![JavaScript][icon-javascript] | ![Vue.js][icon-framework-vue] | Daily predictions for the Our Daily Candles&trade; correspondence in KoL, the online RPG |
 
 ### Previous Projects
 
@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 [icon-javascript]: https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_16x16.png
 [icon-python]: https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_16x16.png
 [icon-typescript]: https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png
+[icon-framework-react]: https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB
+[icon-framework-vue]: https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D
