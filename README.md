@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 |---------|:----:|-------------|
 | [Philter](https://github.com/Loathing-Associates-Scripting-Society/philter) | ![TypeScript][icon-typescript] | Item manager for the webgame Kingdom of Loathing that runs on top of a [Rhino](https://github.com/mozilla/rhino)-based engine. "Full stack"-ish webapp built with [Vite](https://vitejs.dev/). |
 
+### Side Projects
+| Project | Lang | Description |
+|---------|:----:|-------------|
+| [KoL Candle Eudora Table](https://github.com/pastelmind/candle) | ![JavaScript][icon-javascript] | Daily predictions for the Our Daily Candles&trade; correspondence in KoL, the online RPG |
+
 ### Previous Projects
 
 | Project | Lang | Description |
